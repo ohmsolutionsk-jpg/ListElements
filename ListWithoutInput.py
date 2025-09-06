@@ -1,0 +1,17 @@
+x=['a',888,2.333,"Ajith"]
+print("The List x Items are:",x)
+print("The Index of x List x[0] is:",x[0])
+print("The Index of x List x[1] is:",x[1])
+print("The Index of x List x[2] is:",x[2])
+print("The Index of x List x[3] is:",x[3])
+x1=['b',123,3.444,"Preaselin"]
+print("The List x1 Items are:",x1)
+print("The Index of x1 List x1[0] is:",x1[0])
+print("The Index of x1 List x1[1] is:",x1[1])
+print("The Index of x1 List x1[2] is:",x1[2])
+print("The Index of x1 List x1[3] is:",x[3])
+print("Print the 0th Place to 2nd Place values:",x[0:3])#0 is the starting index,3 is the ending index(endingindex=endingindex-1)
+print("The list of x and x1 values are:",x+x1)
+print("Print the x values in three times:",x*3)
+print("Print the 0th Place to 3rd Place values:",x1[0:4])
+print("Print the x1 values in two times:",x1*3)
